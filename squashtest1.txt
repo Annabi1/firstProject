@@ -1,1 +1,2 @@
  the content of squahtest1.txt
+ updated squahtest1.txt
