@@ -1,0 +1,1 @@
+ the content of MainSquashtest1.txt
